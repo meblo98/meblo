@@ -50,7 +50,7 @@
 
 <script setup>
 // Données réactives
-const imageUrl = '@/assets/meblo.jpg';
+const imageUrl = new URL('@/assets/about.jpg', import.meta.url).href;
 const imageAlt = 'About Me';
 const verticalText = 'MORE ABOUT';
 const titleLine1 = 'A Passionate';
