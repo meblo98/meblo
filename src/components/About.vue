@@ -32,7 +32,7 @@
       <!-- Buttons -->
       <div class="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
         <a 
-          href="#" 
+          href="https://github.com/meblo98/" 
           class="bg-blue-200 text-blue-950 font-semibold py-2 px-4 rounded-lg hover:bg-blue-500/80 text-center transition-colors duration-300"
         >
           {{ primaryButtonText }}

@@ -32,7 +32,7 @@
             <img class="pt-2 pr-2 h-7 w-7" src="https://img.icons8.com/ios-filled/50/ffffff/phone.png" alt="call us" />
             <div>
               <h2 class="text-2xl">Call</h2>
-              <p class="text-gray-200">Tel:+221-77-316-20-01</p>
+              <p class="text-gray-200">Tel:+221-77-316-20-01 / +221707977724</p>
             </div>
           </div>
           <div class="flex w-2/3 my-4 lg:w-1/2">

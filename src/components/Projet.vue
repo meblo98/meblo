@@ -65,17 +65,17 @@
   const projects = ref([
     {
       id: 1,
-      title: "Awesome Project 1",
-      category: "App Development",
+      title: "Logo IT Holding",
+      category: "Web Design",
       image: new URL('@/assets/it.png', import.meta.url).href,
       link: "/project-1",
     },
     {
       id: 2,
-      title: "Awesome Project 2",
-      category: "Branding",
+      title: "Web site Taktyl Labs",
+      category: "App Development",
       image: new URL('@/assets/taktyl.jpeg', import.meta.url).href,
-      link: "/project-2",
+      link: "https://taktylabs.com/",
     },
     {
       id: 3,
@@ -84,27 +84,27 @@
       image: new URL('@/assets/it.png', import.meta.url).href,
       link: "/project-3",
     },
-    {
-      id: 4,
-      title: "Awesome Project 4",
-      category: "Web Design, Branding",
-      image: new URL('@/assets/taktyl.jpeg', import.meta.url).href,
-      link: "/project-4",
-    },
-    {
-      id: 5,
-      title: "Awesome Project 5",
-      category: "Web Design, Branding",
-      image: new URL('@/assets/it.png', import.meta.url).href,
-      link: "/project-5",
-    },
-    {
-      id: 6,
-      title: "Awesome Project 6",
-      category: "Web Design, Branding",
-      image: new URL('@/assets/taktyl.jpeg', import.meta.url).href,
-      link: "/project-6",
-    },
+    // {
+    //   id: 4,
+    //   title: "Awesome Project 4",
+    //   category: "Web Design, Branding",
+    //   image: new URL('@/assets/taktyl.jpeg', import.meta.url).href,
+    //   link: "/project-4",
+    // },
+    // {
+    //   id: 5,
+    //   title: "Awesome Project 5",
+    //   category: "Web Design, Branding",
+    //   image: new URL('@/assets/it.png', import.meta.url).href,
+    //   link: "/project-5",
+    // },
+    // {
+    //   id: 6,
+    //   title: "Awesome Project 6",
+    //   category: "Web Design, Branding",
+    //   image: new URL('@/assets/taktyl.jpeg', import.meta.url).href,
+    //   link: "/project-6",
+    // },
   ]);
   
   // Fonction de filtrage des projets
